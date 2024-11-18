@@ -1,0 +1,21 @@
+{
+  "Movie": {
+    "My Movies": "Mis películas",
+    "pervious": "Anterior",
+    "next": "Siguiente",
+    "logout": "Cerrar sesión",
+    "Your movie list is empty": "Tu lista de películas está vacía",
+    "Add a new movie": "Añadir una nueva película"
+  },
+  "Add": {
+    "Create a new movie": "Crear una nueva película",
+    "Title": "Título",
+    "Publishing Year": "Año de publicación",
+    "Drop an image here": "Suelta una imagen aquí",
+    "Cancel": "Cancelar",
+    "Submit": "Enviar",
+    "Edit": "Editar",
+    "Update": "Actualizar",
+    "Youtube Link": "Enlace de Youtube"
+  }
+}
